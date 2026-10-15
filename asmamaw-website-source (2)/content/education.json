@@ -1,0 +1,23 @@
+[
+  {
+    "id": "meng",
+    "degree": "Master of Engineering in Civil Engineering",
+    "specialisation": "Construction Technology and Management",
+    "institution": "Bahir Dar University Institute of Technology",
+    "location": "Bahir Dar",
+    "year": "2016",
+    "notes": [
+      "Scholarship from the Ethiopian Roads Authority (ERA).",
+      "Thesis: Cost and Environmental Impact Comparison Between Rigid and Flexible Pavement."
+    ]
+  },
+  {
+    "id": "bsc",
+    "degree": "Bachelor of Science in Civil Engineering",
+    "specialisation": "",
+    "institution": "Bahir Dar University",
+    "location": "Bahir Dar",
+    "year": "2009",
+    "notes": []
+  }
+]

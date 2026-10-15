@@ -1,0 +1,37 @@
+[
+  {
+    "category": "Engineering and infrastructure",
+    "items": [
+      "Civil engineering",
+      "Road construction and maintenance",
+      "Construction engineering",
+      "Structural design",
+      "Technical supervision",
+      "Cost estimation"
+    ]
+  },
+  {
+    "category": "Management and leadership",
+    "items": [
+      "Strategic planning",
+      "Construction project management",
+      "Teamwork and communication",
+      "Client and contract relations",
+      "Problem identification and solving",
+      "Time management",
+      "Resource and budget management"
+    ]
+  },
+  {
+    "category": "Software",
+    "items": [
+      "Microsoft Word",
+      "Microsoft Excel",
+      "Microsoft PowerPoint",
+      "Microsoft Visio",
+      "Microsoft Project",
+      "AutoCAD Civil 3D",
+      "Primavera P6"
+    ]
+  }
+]
